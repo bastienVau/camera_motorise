@@ -10,7 +10,7 @@ session_start()
 		<link rel="stylesheet" href="style.css" />		
     </head>
  
-    <body style="background-color: black;">
+    <body style="background-color: blue;">
 		
 			<img src="data/img/header.png" class "conteneur"/>
 		
